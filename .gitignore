@@ -10,6 +10,5 @@ wheels/
 .venv
 
 # Data files with credentials
-*.xlsx
 .instagram_cookies.txt
 .instagram_session.json
