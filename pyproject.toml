@@ -1,0 +1,15 @@
+[project]
+name = "my-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "faster-whisper>=1.2.1",
+    "instagrapi>=2.7.8",
+    "langdetect>=1.0.9",
+    "openpyxl>=3.1.5",
+    "playwright>=1.60.0",
+    "tiktokapi>=7.3.3",
+    "yt-dlp>=2026.3.17",
+]
